@@ -10,6 +10,6 @@ A collection of physical chemistry computing tools developed, tested, and deploy
 Instead of hosting everything in one folder, switch between branches using the GitHub branch dropdown menu above:
 
 * **`interactive-calculator` Branch:** Contains the primary interactive thermodynamics script tracking \(\Delta G\) and spontaneity flips.
-* **`vant-hoff-calculator` Branch:** Contains the equilibrium shift modeling (\(K_{eq}\)) based on the Van 't Hoff equation.
+* **`vant-hoff-calc` Branch:** Contains the equilibrium shift modeling (\(K_{eq}\)) based on the Van 't Hoff equation.
 * **`Kirchoff-calc` Branch:** Contains the kirchoff calculator to calucate \(\Delta H(T)\) by kirchoff equation.
 
